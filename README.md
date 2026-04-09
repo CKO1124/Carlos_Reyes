@@ -9,18 +9,17 @@ I am passionate about transforming complex datasets into actionable insights and
 
 
 🛠️ Technical Skills 
-Languages: Python (Pandas, NumPy, Seaborn, Selenium), SQL.
-Databases: SQL Server, SQLite.
-Tools & Platforms: Git/GitHub, Excel, Power BI, Tableu.
+-> Languages: Python (Pandas, NumPy, Seaborn, Selenium), SQL.
+-> Databases: SQL Server, SQLite.
+-> Tools & Platforms: Git/GitHub, Excel, Power BI, Tableu.
 
 
 🚀 What I'm Working On
-Automation: Developing Python scripts to automate weekly database reporting (SQL to Excel/Email).
-Data Analysis: Building comprehensive EDA projects using Northwind and custom datasets.
-Web Scraping: Implementing Selenium bots for data collection and browser automation.
+-> Automation: Developing Python scripts to automate weekly database reporting (SQL to Excel/Email).
+-> Data Analysis: Building comprehensive EDA projects using Northwind and custom datasets.
+-> Web Scraping: Implementing Selenium bots for data collection and browser automation.
 
 
-📊 GitHub Stats
 📫 Connect with me:
-LinkedIn: https://www.linkedin.com/in/carlos-antonio-reyes-morales-55556633b/
-Email: carlosantonioreyesmorales@gmail.com
+-> LinkedIn: https://www.linkedin.com/in/carlos-antonio-reyes-morales-55556633b/
+-> Email: carlosantonioreyesmorales@gmail.com

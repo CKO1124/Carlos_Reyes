@@ -1,1 +1,33 @@
+id,nombre,edad,correo,telefono,ciudad,fecha,salario
+1,Juan Perez,28,juan.perez@email.com,88881234,Managua,2023-01-15,500.00
+2,Ana López,NULL,NULL,77772345,Leon,2023-02-15,650.50
+3,Carlos Martinez,34,carlos@email.com,99993456,Granada,2023-03-01,700.00
+4,Maria Garcia,29,NULL,88881234,Managua,2023-01-04,NULL
+5,Pedro Ruiz,42,pedro.ruiz@email.com,77772345,Masaya,2023-05-20,1200.00
+6,Luisa Fernanda,20,luisa@email.com,88880000,Managua,2023-06-15,800.00
+7,Jose Perez,28,juan.perez@email.com,88881234,Managua,2023-01-15,500.00
+8,Andrea Gomez,31,andrea@email.com,77771111,Leon,2023-07-10,950.00
+9,Miguel Torres,27,NULL,66662222,Chinandega,2023-08-01,400.00
+10,Ricardo Soto,45,ricardo.soto@email.com,55553333,Managua,2023-09-12,1300.00
+11,Elena Navas,33,elena.navas@email.com,44444444,Esteli,2023-10-05,1100.00
+12,Fernando Castillo,39,fernando@email.com,33335555,Matagalpa,2023-11-01,1150.00
+13,Gabriela Rojas,26,gabriela@email.com,22226666,Leon,2023-12-12,780.00
+16,Oscar Medina,41,oscar.medina@email.com,99999999,Granada,2023-03-15,1250.00
+17,Patricia Silva,36,patricia@email.com,88887777,Leon,2023-04-20,1050.00
+18,Roberto Diaz,38,roberto@email.com,77776666,Chinandega,2023-05-25,1100.00
+19,Sofia Morales,27,sofia@email.com,66665555,Managua,2023-06-10,950.00
+20,Victor Ramos,44,victor@email.com,55554444,Esteli,2023-07-18,1400.00
+21,Juan Perez,28,juan.perez@email.com,88881234,Managua,2023-01-15,500.00
+22,Ana Lopez,30,ana.lopez@email.com,77772345,Leon,2023-02-15,650.00
+23,Carlos Martinez,34,carlos@email.com,99993456,Granada,2023-03-01,700.00
+24,Maria Garcia,29,maria@email.com,88881234,Managua,2023-04-01,900.00
+25,Pedro Ruiz,42,pedro.ruiz@email.com,77772345,Masaya,2023-05-20,1200.00
+26,Andrea Lopez,31,andrea@email.com,77771111,Leon,2023-07-10,950.00
+27,Ricardo Soto,45,ricardo.soto@email.com,55553333,Managua,2023-09-12,1300.00
+28,Elena Navas,33,elena.navas@email.com,44444444,Esteli,2023-10-05,1100.00
+29,Fernando Castillo,39,fernando@email.com,33335555,Matagalpa,2023-11-01,1150.00
+30,Gabriela Rojas,26,gabriela@email.com,22226666,Leon,2023-12-12,780.00
+31,Not_Found,25,sin_nombre@email.com,NULL,Managua,2023-01-01,500.00
+34,Lucia Perez,NULL,lucia@email.com,88882222,Managua,2023-05-10,900.00
+35,Carlos Ruiz,40,carlos.ruiz@email.com,NULL,Masaya,2023-06-20,1100.00
 

@@ -1,0 +1,35 @@
+id,nombre,edad,correo,telefono,ciudad,fecha_ingreso,salario
+1,Juan Perez,28,juan.perez@email.com,8888-1234,Managua,1/15/2023,500
+2,Ana López,,ana.lopez@email,7777-2345,Leon,15-02-2023,650.5
+3,Carlos Martinez,34,carlos@email.com,9999-3456,Granada,3/1/2023,700
+4,Maria Garcia,29,NULL,88881234,Managua,1/4/2023,NaN
+5,Pedro Ruiz,42,pedro.ruiz@email.com,7777-2345,Masaya,5/20/2023,1200
+6,Luisa Fernanda,20,luisa@email.com,8888-0000,Managua,6/15/2023,800
+7,Jose Perez,28,juan.perez@email.com,8888-1234,Managua,1/15/2023,500
+8,Andrea Gomez,31,andrea@email.com,7777-1111,Leon,7/10/2023,950
+9,Miguel Torres,27,miguel@email,6666-2222,Chinandega,8/1/2023,400
+10,Ricardo Soto,45,ricardo.soto@email.com,5555-3333,Managua,9/12/2023,1300
+11,Elena Navas,33,elena.navas@email.com,4444-4444,Esteli,10/5/2023,1100
+12,Fernando Castillo,39,fernando@email.com,3333-5555,Matagalpa,11/1/2023,1150
+13,Gabriela Rojas,26,gabriela@email.com,2222-6666,Leon,12/12/2023,780
+14,Luis Hernandez,31,luis@email,1111-7777,Managua,2023/13/01,900
+15,Daniela Cruz,29,daniela@email.com,0000-8888,Masaya,2023-02-30,850
+16,Oscar Medina,41,oscar.medina@email.com,9999-9999,Granada,3/15/2023,1250
+17,Patricia Silva,36,patricia@email.com,8888-7777,Leon,4/20/2023,1050
+18,Roberto Diaz,38,roberto@email.com,7777-6666,Chinandega,5/25/2023,1100
+19,Sofia Morales,27,sofia@email.com,6666-5555,Managua,6/10/2023,950
+20,Victor Ramos,44,victor@email.com,5555-4444,Esteli,7/18/2023,1400
+21,Juan Perez,28,juan.perez@email.com,8888-1234,Managua,1/15/2023,500
+22,Ana Lopez,30,ana.lopez@email.com,7777-2345,Leon,2/15/2023,650
+23,Carlos Martinez,34,carlos@email.com,9999-3456,Granada,3/1/2023,700
+24,Maria Garcia,29,maria@email.com,88881234,Managua,4/1/2023,900
+25,Pedro Ruiz,42,pedro.ruiz@email.com,7777-2345,Masaya,5/20/2023,1200
+26,Andrea Lopez,31,andrea@email.com,7777-1111,Leon,7/10/2023,950
+27,Ricardo Soto,45,ricardo.soto@email.com,5555-3333,Managua,9/12/2023,1300
+28,Elena Navas,33,elena.navas@email.com,4444-4444,Esteli,10/5/2023,1100
+29,Fernando Castillo,39,fernando@email.com,3333-5555,Matagalpa,11/1/2023,1150
+30,Gabriela Rojas,26,gabriela@email.com,2222-6666,Leon,12/12/2023,780
+31,,25,sin_nombre@email.com,1234,Managua,1/1/2023,500
+33,Mario,-5,mario@email.com,abcd,Leon,fecha,-100
+34,Lucia Perez,NULL,lucia@email.com,8888-2222,Managua,5/10/2023,900
+35,Carlos Ruiz,40,carlos.ruiz@email.com,NULL,Masaya,6/20/2023,1100

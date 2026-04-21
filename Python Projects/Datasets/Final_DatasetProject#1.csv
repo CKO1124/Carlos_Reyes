@@ -1,1 +1,42 @@
+,Transaction_ID,Date,Customer_Name,Product_Category,Quantity,Unit_Price,Store_Location,Feedback_Score,Total_sells
+33,134,02-03-2024,Uma Thurman,Electronics,3,1200.0,New York,2.0,3600.0
+8,109,01-09-2024,Eve Online,Electronics,3,1200.0,New York,4.0,3600.0
+24,125,01-25-2024,Leo Messi,Sports,500,5.0,Austin,5.0,2500.0
+1,102,01-02-2024,Jane Smith,Electronics,2,1200.0,New York,4.0,2400.0
+11,112,01-12-2024,Jane Smith,Electronics,2,1200.0,New York,4.0,2400.0
+16,117,01-17-2024,David Black,Electronics,2,1200.0,Chicago,5.0,2400.0
+2,103,01-03-2024,John Doe,Electronics,1,1200.0,New York,5.0,1200.0
+0,101,01-01-2024,John Doe,Electronics,1,1200.0,New York,5.0,1200.0
+17,118,01-18-2024,Eve Online,Electronics,1,1200.0,New York,4.0,1200.0
+30,131,01-31-2024,Riley Reid,Electronics,1,1200.0,New York,5.0,1200.0
+20,121,01-21-2024,Hank Pym,Electronics,1,1200.0,Seattle,5.0,1200.0
+10,111,01-11-2024,John Doe,Electronics,1,1200.0,New York,5.0,1200.0
+7,108,01-08-2024,David Black  ,Electronics,1,1200.0,Chicago,5.0,1200.0
+23,124,01-24-2024,Kelly Clarkson,Electronics,1,1200.0,New York,2.0,1200.0
+18,119,01-19-2024,Frank Castle,Furniture,3,300.0,New York,1.0,900.0
+19,120,01-20-2024,Grace Kelly,Furniture,1,300.0,Seattle,3.0,300.0
+13,114,01-14-2024,Bob White,Home,10,15.0,Miami,2.0,150.0
+3,104,01-04-2024,Alice Brown,Home,10,15.0,Miami,3.0,150.0
+5,106,01-06-2024,Charlie Green,Garden,5,20.0,Chicago,4.0,100.0
+15,116,01-16-2024,Charlie Green,Garden,5,20.0,Chicago,4.0,100.0
+36,137,02-06-2024,Xena Warrior,Sports,2,45.0,Austin,3.0,90.0
+38,139,02-08-2024,Zane Grey,Movies,3,25.0,Seattle,5.0,75.0
+25,126,01-26-2024,Mia Khalifa,Beauty,1,50.0,Austin,4.0,50.0
+35,136,02-05-2024,Will Smith,Beauty,1,50.0,Austin,4.0,50.0
+26,127,01-27-2024,Noah Ark,Sports,1,45.0,Austin,3.0,45.0
+6,107,,Alice Brown,Home,2,15.0,Miami,,30.0
+27,128,01-28-2024,Olivia Wilde,Home,2,15.0,Miami,2.0,30.0
+31,132,02-01-2024,Sam Smith,Home,2,15.0,Miami,4.0,30.0
+28,129,01-29-2024,Peter Parker,Movies,1,25.0,Seattle,5.0,25.0
+22,123,01-23-2024,Jack Sparrow,Garden,1,20.0,Chicago,3.0,20.0
+32,133,02-02-2024,Tina Fey,Garden,1,20.0,Chicago,3.0,20.0
+4,105,01-05-2024,Bob White,Home,1,15.0,Miami,2.0,15.0
+29,130,01-30-2024,Quinn Fabray,Music,1,15.0,Seattle,4.0,15.0
+21,122,01-22-2024,Ivy League,Home,1,15.0,Miami,4.0,15.0
+14,105,01-05-2024,Bob White,Home,1,15.0,Miami,2.0,15.0
+12,113,01-13-2024,Alice Brown,Home,1,15.0,Miami,3.0,15.0
+39,140,02-09-2024,Aaron Burr,Music,1,15.0,Seattle,4.0,15.0
+37,138,02-07-2024,Yolanda Becool,Home,1,15.0,Miami,2.0,15.0
+34,135,02-04-2024,Vince Vaughn,Sports,1,5.0,Austin,5.0,5.0
+9,110,01-10-2024,Frank Castle,N/a,1,0.0,New York,1.0,0.0
 

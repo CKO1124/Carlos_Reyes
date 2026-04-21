@@ -1,1 +1,42 @@
+Transaction_ID,Date,Customer_Name,Product_Category,Quantity,Unit_Price,Store_Location,Feedback_Score
+101,2024-01-01,John Doe,Electronics,1,1200,New York,5.0
+102,2024/01/02,jane smith,elec.,2,1200,ny,4.0
+103,01-03-2024,jOHN dOE,Electronics,1,1200,NEW YORK,5.0
+104,2024-01-04,Alice Brown,Home,10,15,Miami,3.0
+105,2024-01-05,Bob White,Home,1,15,Miami,2.0
+106,2024-01-06,Charlie Green,GARDEN,5,20,Chicago,4.0
+107,,Alice Brown,Home,2,15,Miami,
+108,2024-01-08,  David Black  ,Electronics,1,1200,Chicago,5.0
+109,2024-01-09,Eve Online,Electronics,3,1200,New York,4.0
+110,2024-01-10,Frank Castle,N/A,1,0,New York,1.0
+111,2024-01-11,John Doe,Electronics,1,1200,New York,5.0
+112,2024-01-12,Jane Smith,Electronics,2,1200,New York,4.0
+113,2024-01-13,Alice Brown,Home,1,15,Miami,3.0
+114,2024-01-14,Bob White,Home,10,15,Miami,2.0
+105,2024-01-05,Bob White,Home,1,15,Miami,2.0
+116,2024-01-16,Charlie Green,Garden,5,20,Chicago,4.0
+117,2024-01-17,David Black,Electronics,2,1200,Chicago,5.0
+118,2024-01-18,Eve Online,Electronics,1,1200,New York,4.0
+119,2024-01-19,Frank Castle,Furniture,3,300,New York,1.0
+120,2024-01-20,Grace Kelly,Furniture,1,300,Seattle,3.0
+121,2024-01-21,Hank Pym,Electronics,1,1200,Seattle,5.0
+122,2024-01-22,Ivy League,Home,1,15,Miami,4.0
+123,2024-01-23,Jack Sparrow,Garden,1,20,Chicago,3.0
+124,2024-01-24,Kelly Clarkson,Electronics,1,1200,New York,2.0
+125,2024-01-25,Leo Messi,Sports,500,5,Austin,5.0
+126,2024-01-26,Mia Khalifa,Beauty,1,50,Austin,4.0
+127,2024-01-27,Noah Ark,Sports,1,45,Austin,3.0
+128,2024-01-28,Olivia Wilde,Home,2,15,Miami,2.0
+129,2024-01-29,Peter Parker,Movies,1,25,Seattle,5.0
+130,2024-01-30,Quinn Fabray,Music,1,15,Seattle,4.0
+131,2024-01-31,Riley Reid,Electronics,1,1200,New York,5.0
+132,2024-02-01,Sam Smith,Home,2,15,Miami,4.0
+133,2024-02-02,Tina Fey,Garden,1,20,Chicago,3.0
+134,2024-02-03,Uma Thurman,Electronics,3,1200,New York,2.0
+135,2024-02-04,Vince Vaughn,Sports,1,5,Austin,5.0
+136,2024-02-05,Will Smith,Beauty,1,50,Austin,4.0
+137,2024-02-06,Xena Warrior,Sports,2,45,Austin,3.0
+138,2024-02-07,Yolanda BeCool,Home,1,15,Miami,2.0
+139,2024-02-08,Zane Grey,Movies,3,25,Seattle,5.0
+140,2024-02-09,Aaron Burr,Music,1,15,Seattle,4.0
 

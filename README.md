@@ -5,8 +5,10 @@
 
 
 Hi, I'm Carlos Reyes 👋
-**Data Analyst | Account Supervisor and Operation Strategist**
-As an Account Supervisor with experience managing over 15 diverse accounts, I have mastered the art of transforming operational complexity into measurable efficiency. My profile combines the strategic vision of a business leader with the technical expertise of a Data Analyst to optimize workflows and maximize ROI.
+**Software Engineering Student | Python Automation | SQL | Data**
+I'm a Software Engineering student and Account Supervisor with a strong background in operations, workforce management, and data-driven decision-making. I combine business and operational knowledge with hands-on experience building Python and SQL solutions for data processing, reporting automation, data cleaning, and workflow optimization.
+
+I'm particularly interested in process automation and developing practical software solutions that reduce repetitive tasks and improve operational efficiency.
 
 High-Impact Leadership & Experience
 - Multi-Account Stewardship: Oversaw 15+ simultaneous accounts, ensuring KPI compliance and client satisfaction through data-driven decision-making.
@@ -14,14 +16,16 @@ High-Impact Leadership & Experience
 - Strategic Automation: Reduced administrative overhead by developing Python and SQL tools to automate critical business reporting.
 
 
-🛠️ Technical Skills 
--> Languages: Python (Pandas, NumPy, Seaborn, Selenium), SQL.
--> Databases: SQL Server, SQLite.
--> Tools & Platforms: Git/GitHub, Excel, Power BI, Tableu.
+**Technical Skills** 
+-> Programming: Python, SQL, C#
+-> Python Libraries & Automation: Pandas, NumPy, Seaborn, Selenium
+-> Databases: SQL Server, SQLite
+-> Data & BI: Power BI, Excel
+-> Development Tools: Git, GitHub, VS Code
 
 
-🚀 What I'm Working On
--> Automation: Developing Python scripts to automate weekly database reporting (SQL to Excel/Email).
--> Data Analysis: Building comprehensive EDA projects using Northwind and custom datasets.
--> Web Scraping: Implementing Selenium bots for data collection and browser automation.
+What I'm Working On
+-> Automation: Developing Python scripts to automate recurring business reporting, file processing, and email delivery workflows.
+-> Data Engineering & Analysis: Building data-processing pipelines using Python, Pandas, SQL Server, and SQL for data cleaning, transformation, and analysis.
+-> Web Automation: Exploring Selenium for browser automation and automated data collection.
 
